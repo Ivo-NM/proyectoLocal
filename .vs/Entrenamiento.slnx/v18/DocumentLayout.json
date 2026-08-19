@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maman\\source\\repos\\Entrenamiento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4297D89D-D6CE-42FC-AE61-43FF1C20D8F1}|Entrenamiento\\Entrenamiento.csproj|c:\\users\\maman\\source\\repos\\entrenamiento\\entrenamiento\\detalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4297D89D-D6CE-42FC-AE61-43FF1C20D8F1}|Entrenamiento\\Entrenamiento.csproj|solutionrelative:entrenamiento\\detalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4297D89D-D6CE-42FC-AE61-43FF1C20D8F1}|Entrenamiento\\Entrenamiento.csproj|C:\\Users\\Maman\\source\\repos\\Entrenamiento\\entrenamiento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4297D89D-D6CE-42FC-AE61-43FF1C20D8F1}|Entrenamiento\\Entrenamiento.csproj|solutionrelative:entrenamiento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4297D89D-D6CE-42FC-AE61-43FF1C20D8F1}|Entrenamiento\\Entrenamiento.csproj|C:\\Users\\Maman\\source\\repos\\Entrenamiento\\entrenamiento\\datos\\personadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4297D89D-D6CE-42FC-AE61-43FF1C20D8F1}|Entrenamiento\\Entrenamiento.csproj|solutionrelative:entrenamiento\\datos\\personadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4297D89D-D6CE-42FC-AE61-43FF1C20D8F1}|Entrenamiento\\Entrenamiento.csproj|C:\\Users\\Maman\\source\\repos\\Entrenamiento\\entrenamiento\\datos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4297D89D-D6CE-42FC-AE61-43FF1C20D8F1}|Entrenamiento\\Entrenamiento.csproj|solutionrelative:entrenamiento\\datos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4297D89D-D6CE-42FC-AE61-43FF1C20D8F1}|Entrenamiento\\Entrenamiento.csproj|C:\\Users\\Maman\\source\\repos\\Entrenamiento\\entrenamiento\\negocio\\personaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4297D89D-D6CE-42FC-AE61-43FF1C20D8F1}|Entrenamiento\\Entrenamiento.csproj|solutionrelative:entrenamiento\\negocio\\personaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4297D89D-D6CE-42FC-AE61-43FF1C20D8F1}|Entrenamiento\\Entrenamiento.csproj|C:\\Users\\Maman\\source\\repos\\Entrenamiento\\entrenamiento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4297D89D-D6CE-42FC-AE61-43FF1C20D8F1}|Entrenamiento\\Entrenamiento.csproj|solutionrelative:entrenamiento\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4297D89D-D6CE-42FC-AE61-43FF1C20D8F1}|Entrenamiento\\Entrenamiento.csproj|C:\\Users\\Maman\\source\\repos\\Entrenamiento\\entrenamiento\\detalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4297D89D-D6CE-42FC-AE61-43FF1C20D8F1}|Entrenamiento\\Entrenamiento.csproj|solutionrelative:entrenamiento\\detalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4297D89D-D6CE-42FC-AE61-43FF1C20D8F1}|Entrenamiento\\Entrenamiento.csproj|C:\\Users\\Maman\\source\\repos\\Entrenamiento\\entrenamiento\\negocio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4297D89D-D6CE-42FC-AE61-43FF1C20D8F1}|Entrenamiento\\Entrenamiento.csproj|solutionrelative:entrenamiento\\negocio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4297D89D-D6CE-42FC-AE61-43FF1C20D8F1}|Entrenamiento\\Entrenamiento.csproj|C:\\Users\\Maman\\source\\repos\\Entrenamiento\\entrenamiento\\negocio\\tipodocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4297D89D-D6CE-42FC-AE61-43FF1C20D8F1}|Entrenamiento\\Entrenamiento.csproj|solutionrelative:entrenamiento\\negocio\\tipodocumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4297D89D-D6CE-42FC-AE61-43FF1C20D8F1}|Entrenamiento\\Entrenamiento.csproj|C:\\Users\\Maman\\source\\repos\\Entrenamiento\\entrenamiento\\datos\\parametro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4297D89D-D6CE-42FC-AE61-43FF1C20D8F1}|Entrenamiento\\Entrenamiento.csproj|solutionrelative:entrenamiento\\datos\\parametro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Maman\\source\\repos\\Entrenamiento\\Entrenamiento\\Form1.cs",
+              "RelativeDocumentMoniker": "Entrenamiento\\Form1.cs",
+              "ToolTip": "C:\\Users\\Maman\\source\\repos\\Entrenamiento\\Entrenamiento\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Entrenamiento\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T00:52:39.332Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Maman\\source\\repos\\Entrenamiento\\Entrenamiento\\Form1.cs",
+              "RelativeDocumentMoniker": "Entrenamiento\\Form1.cs",
+              "ToolTip": "C:\\Users\\Maman\\source\\repos\\Entrenamiento\\Entrenamiento\\Form1.cs",
+              "RelativeToolTip": "Entrenamiento\\Form1.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwHQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T22:59:18.81Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Detalle.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Maman\\source\\repos\\Entrenamiento\\Entrenamiento\\Detalle.cs",
+              "RelativeDocumentMoniker": "Entrenamiento\\Detalle.cs",
+              "ToolTip": "C:\\Users\\Maman\\source\\repos\\Entrenamiento\\Entrenamiento\\Detalle.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Entrenamiento\\Detalle.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T22:48:07.091Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Detalle.cs",
+              "DocumentMoniker": "C:\\Users\\Maman\\source\\repos\\Entrenamiento\\Entrenamiento\\Detalle.cs",
+              "RelativeDocumentMoniker": "Entrenamiento\\Detalle.cs",
+              "ToolTip": "C:\\Users\\Maman\\source\\repos\\Entrenamiento\\Entrenamiento\\Detalle.cs",
+              "RelativeToolTip": "Entrenamiento\\Detalle.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAFQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T23:33:38.902Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TipoDocumento.cs",
+              "DocumentMoniker": "C:\\Users\\Maman\\source\\repos\\Entrenamiento\\Entrenamiento\\Negocio\\TipoDocumento.cs",
+              "RelativeDocumentMoniker": "Entrenamiento\\Negocio\\TipoDocumento.cs",
+              "ToolTip": "C:\\Users\\Maman\\source\\repos\\Entrenamiento\\Entrenamiento\\Negocio\\TipoDocumento.cs",
+              "RelativeToolTip": "Entrenamiento\\Negocio\\TipoDocumento.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T22:52:06.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonaDao.cs",
+              "DocumentMoniker": "C:\\Users\\Maman\\source\\repos\\Entrenamiento\\Entrenamiento\\Datos\\PersonaDao.cs",
+              "RelativeDocumentMoniker": "Entrenamiento\\Datos\\PersonaDao.cs",
+              "ToolTip": "C:\\Users\\Maman\\source\\repos\\Entrenamiento\\Entrenamiento\\Datos\\PersonaDao.cs",
+              "RelativeToolTip": "Entrenamiento\\Datos\\PersonaDao.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T22:59:36.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Maman\\source\\repos\\Entrenamiento\\Entrenamiento\\Datos\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "Entrenamiento\\Datos\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\Maman\\source\\repos\\Entrenamiento\\Entrenamiento\\Datos\\AccesoDatos.cs",
+              "RelativeToolTip": "Entrenamiento\\Datos\\AccesoDatos.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswEcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T22:49:48.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "personaServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Maman\\source\\repos\\Entrenamiento\\Entrenamiento\\Negocio\\personaServicio.cs",
+              "RelativeDocumentMoniker": "Entrenamiento\\Negocio\\personaServicio.cs",
+              "ToolTip": "C:\\Users\\Maman\\source\\repos\\Entrenamiento\\Entrenamiento\\Negocio\\personaServicio.cs",
+              "RelativeToolTip": "Entrenamiento\\Negocio\\personaServicio.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T22:59:52.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Maman\\source\\repos\\Entrenamiento\\Entrenamiento\\Negocio\\Cliente.cs",
+              "RelativeDocumentMoniker": "Entrenamiento\\Negocio\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Maman\\source\\repos\\Entrenamiento\\Entrenamiento\\Negocio\\Cliente.cs",
+              "RelativeToolTip": "Entrenamiento\\Negocio\\Cliente.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwDsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T23:04:23.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Parametro.cs",
+              "DocumentMoniker": "C:\\Users\\Maman\\source\\repos\\Entrenamiento\\Entrenamiento\\Datos\\Parametro.cs",
+              "RelativeDocumentMoniker": "Entrenamiento\\Datos\\Parametro.cs",
+              "ToolTip": "C:\\Users\\Maman\\source\\repos\\Entrenamiento\\Entrenamiento\\Datos\\Parametro.cs",
+              "RelativeToolTip": "Entrenamiento\\Datos\\Parametro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T22:51:01.976Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

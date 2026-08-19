@@ -1,0 +1,11 @@
+C:\Users\Maman\source\repos\Entrenamiento\Entrenamiento\bin\Debug\Entrenamiento.exe.config
+C:\Users\Maman\source\repos\Entrenamiento\Entrenamiento\bin\Debug\Entrenamiento.exe
+C:\Users\Maman\source\repos\Entrenamiento\Entrenamiento\bin\Debug\Entrenamiento.pdb
+C:\Users\Maman\source\repos\Entrenamiento\Entrenamiento\obj\Debug\Entrenamiento.csproj.AssemblyReference.cache
+C:\Users\Maman\source\repos\Entrenamiento\Entrenamiento\obj\Debug\Entrenamiento.Detalle.resources
+C:\Users\Maman\source\repos\Entrenamiento\Entrenamiento\obj\Debug\Entrenamiento.Form1.resources
+C:\Users\Maman\source\repos\Entrenamiento\Entrenamiento\obj\Debug\Entrenamiento.Properties.Resources.resources
+C:\Users\Maman\source\repos\Entrenamiento\Entrenamiento\obj\Debug\Entrenamiento.csproj.GenerateResource.cache
+C:\Users\Maman\source\repos\Entrenamiento\Entrenamiento\obj\Debug\Entrenamiento.csproj.CoreCompileInputs.cache
+C:\Users\Maman\source\repos\Entrenamiento\Entrenamiento\obj\Debug\Entrenamiento.exe
+C:\Users\Maman\source\repos\Entrenamiento\Entrenamiento\obj\Debug\Entrenamiento.pdb
